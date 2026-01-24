@@ -9,7 +9,7 @@ An AI&ML Engineer at PlanetEye Infra AI (Mitcon Engineering) with a passion for 
 * 🌍  I'm based in Bengaluru
 * 🖥️  See my portfolio at [quantamaster.github.io/Akhilesh-Y-Ragate.github.io/](http://quantamaster.github.io/Akhilesh-Y-Ragate.github.io/)
 * ✉️  You can contact me at [akhileshyragate@gmail.com](mailto:akhileshyragate@gmail.com)
-* 🚀  I'm currently working on [Asset management](http://ai.studio/apps/drive/1tGdz-pSLCFx9TQlYB64oAhsblhRGXGrF)
+* 🚀  I'm currently working on [AI&ML Applications (Asset management)](http://ai.studio/apps/drive/1tGdz-pSLCFx9TQlYB64oAhsblhRGXGrF)
 * 🧠  I'm currently learning Gen AI,MLOPS,LLMs,Rust,Gemini,OpenAI APIs
 * 👥  I'm looking to collaborate on Interesting projects and I'm always open to new opportunities and collaborations in the tech domain.
 

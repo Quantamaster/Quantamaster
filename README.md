@@ -4,6 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 AI&ML Applications Engineer
 ----------------------------
 
+![Profile views](https://komarev.com/ghpvc/?username=Quantamaster)
+
 An AI&ML Engineer at PlanetEye Infra AI (Mitcon Engineering) with a passion for pushing the limits of what can be done with AI. With extensive knowledge of AI software data engineering and data science & engineering, I specialize in creating innovative solutions that leverage emerging tech. I have developed practical skills in building impactful solutions such as remote sensing,real-time road distress detection using computer vision and scalable data pipelines on cloud platforms. Passionate about leveraging cutting-edge technology, including deep learning models like SAM and cloud-based serverless architecture, I aim to contribute effectively to innovative projects and reputed companies.
 
 * 🌍  I'm based in Bengaluru

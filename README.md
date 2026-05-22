@@ -6,12 +6,11 @@ AI&ML Applications Engineer
 
 ![Profile views](https://komarev.com/ghpvc/?username=Quantamaster)
 
-An AI&ML Engineer at PlanetEye Infra AI (Mitcon Engineering) with a passion for pushing the limits of what can be done with AI. With extensive knowledge of AI software data engineering and data science & engineering, I specialize in creating innovative solutions that leverage emerging tech. I have developed practical skills in building impactful solutions such as remote sensing,real-time road distress detection using computer vision and scalable data pipelines on cloud platforms. Passionate about leveraging cutting-edge technology, including deep learning models like SAM and cloud-based serverless architecture, I aim to contribute effectively to innovative projects and reputed companies.
+An AI Engineer at Kreesalis with a passion for pushing the limits of what can be done with AI. With extensive knowledge of AI software data engineering and data science & engineering, I specialize in creating innovative solutions that leverage emerging tech. I have developed practical skills in building impactful solutions such as behavioral detection for cybertech using python and scalable data pipelines on cloud platforms. Passionate about leveraging cutting-edge technology, including deep learning models like SAM and cloud-based serverless architecture, I aim to contribute effectively to innovative projects and reputed companies.
 
 * 🌍  I'm based in Bengaluru
 * 🖥️  See my portfolio at [quantamaster.github.io/Akhilesh-Y-Ragate.github.io/](http://quantamaster.github.io/Akhilesh-Y-Ragate.github.io/)
 * ✉️  You can contact me at [akhileshyragate@gmail.com](mailto:akhileshyragate@gmail.com)
-* 🚀  I'm currently working on [AI&ML Applications (Asset management)](http://ai.studio/apps/drive/1tGdz-pSLCFx9TQlYB64oAhsblhRGXGrF)
 * 🧠  I'm currently learning Gen AI,MLOPS,Rust,OpenAI APIs,.NET,Agentic AI(Openclaw)
 * 👥  I'm looking to collaborate on Interesting projects and I'm always open to new opportunities and collaborations in the tech domain.
 

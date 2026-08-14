@@ -6,9 +6,42 @@ AI Engineer
 
 ![Profile views](https://komarev.com/ghpvc/?username=Quantamaster)
 
-An AI Engineer at Kreesalis with a passion for pushing the limits of what can be done with AI. With extensive knowledge of AI software data engineering and data science & engineering, I specialize in creating innovative solutions that leverage emerging tech. I have developed practical skills in building impactful solutions such as behavioral detection for cybertech using python and scalable data pipelines on cloud platforms. Passionate about leveraging cutting-edge technology, including deep learning models like SAM and cloud-based serverless architecture,
-I aim to contribute effectively to innovative projects and reputed companies.
-I design and ship agentic AI systems: multi-agent state graphs, cyclic loops, and LangGraph workflows wired through MCP and A2A for tool access and inter-agent collaboration. I build evaluation harnesses and sandboxed environments for autonomous coding agents (Claude Code, Codex, Pi Agent), and I’ve delivered behavioral biometric ML (44D keystroke dynamics at 97% accuracy under 100ms) plus real-time policy engines. My LLM work spans Hermes and reasoning models, Transformer architectures (MoE, RoPE, ViT), and GPU acceleration with CUDA/TensorRT.
+## AI Engineer @ Kreesalis | Agentic AI • AI Security • ML Systems
+
+I’m an **AI Engineer at Kreesalis**, focused on building intelligent, secure, and production-ready AI systems.
+
+I combine **AI engineering, software engineering, data engineering, and data science** to turn emerging technologies into scalable solutions.
+
+### 🤖 Agentic AI & AI Systems
+
+* Multi-agent architectures using **LangGraph**, state graphs, cyclic workflows, and tool-driven agents
+* **MCP & A2A** for tool access, agent interoperability, and inter-agent collaboration
+* Evaluation harnesses and sandboxed environments for autonomous coding agents
+* Experience experimenting with **Claude Code, Codex, and Pi Agent**
+
+### 🔐 AI Security & Behavioral Biometrics
+
+* Behavioral biometric ML systems using **44-dimensional keystroke dynamics**
+* Achieved **97% accuracy with <100ms inference latency**
+* Real-time behavioral detection and policy enforcement engines
+* AI-driven approaches to fraud detection, session trust, and security monitoring
+
+### 🧠 Machine Learning & LLMs
+
+* Reasoning and open-source LLM architectures
+* **Transformers, MoE, RoPE, ViT**
+* Deep learning and computer vision models including **SAM**
+* Model evaluation, experimentation, and performance optimization
+
+### ⚡ AI Infrastructure & Acceleration
+
+* **Python** for AI/ML and backend systems
+* **CUDA & TensorRT** for GPU acceleration
+* Scalable cloud and serverless architectures
+* Data pipelines and infrastructure for production AI workloads
+
+I’m particularly interested in the intersection of **AI agents, cybersecurity, behavioral intelligence, and high-performance ML systems**—and in building technology that moves from research ideas to reliable production systems.
+
 * 🌍  I'm based in Bengaluru
 * 🖥️  See my portfolio at [quantamaster.github.io/Akhilesh-Y-Ragate.github.io/](http://quantamaster.github.io/Akhilesh-Y-Ragate.github.io/)
 * ✉️  You can contact me at [akhileshyragate@gmail.com](mailto:akhileshyragate@gmail.com)

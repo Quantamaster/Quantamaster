@@ -7,7 +7,7 @@ AI Engineer
 ![Profile views](https://komarev.com/ghpvc/?username=Quantamaster)
 
 An AI Engineer at Kreesalis with a passion for pushing the limits of what can be done with AI. With extensive knowledge of AI software data engineering and data science & engineering, I specialize in creating innovative solutions that leverage emerging tech. I have developed practical skills in building impactful solutions such as behavioral detection for cybertech using python and scalable data pipelines on cloud platforms. Passionate about leveraging cutting-edge technology, including deep learning models like SAM and cloud-based serverless architecture, I aim to contribute effectively to innovative projects and reputed companies.
-
+I design and ship agentic AI systems: multi-agent state graphs, cyclic loops, and LangGraph workflows wired through MCP and A2A for tool access and inter-agent collaboration. I build evaluation harnesses and sandboxed environments for autonomous coding agents (Claude Code, Codex, Pi Agent), and I’ve delivered behavioral biometric ML (44D keystroke dynamics at 97% accuracy under 100ms) plus real-time policy engines. My LLM work spans Hermes and reasoning models, Transformer architectures (MoE, RoPE, ViT), and GPU acceleration with CUDA/TensorRT.
 * 🌍  I'm based in Bengaluru
 * 🖥️  See my portfolio at [quantamaster.github.io/Akhilesh-Y-Ragate.github.io/](http://quantamaster.github.io/Akhilesh-Y-Ragate.github.io/)
 * ✉️  You can contact me at [akhileshyragate@gmail.com](mailto:akhileshyragate@gmail.com)

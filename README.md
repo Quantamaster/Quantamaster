@@ -62,5 +62,6 @@ I’m particularly interested in the intersection of **AI agents, cybersecurity,
 <p align="left">
   <img src="./cisco-python-essentials.png" width="130"/>
   <img src="./oracle-genai-oci.png" width="130"/>
+  <img src="engineer-ai-agents-with-agent-development-kit-adk.png" width="130"/>
 </p>
 
